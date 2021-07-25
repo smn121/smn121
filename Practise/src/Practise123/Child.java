@@ -1,4 +1,4 @@
-package practise;
+package Practise123;
 
 public class Child extends Parent{
 
